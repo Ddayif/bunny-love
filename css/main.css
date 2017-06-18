@@ -1,46 +1,104 @@
+
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'Prompt', sans-serif;
+	font-family: 'Baloo Paaji', cursive;
 }
 
-nav{
-	width: 100%;
+body{
+	background-color: rgba(174, 219, 208, 0.35);
+}
+
+#navegador{
 	background-color: #0F7389;
 }
 
 nav ul{
-	margin-left: 43rem;
+ padding-left: 20px;	
 
 }
 
 .lista{
 	list-style: none;
-	padding: 39px 13px;
+	padding: 0 13px;
 	display: inline-block;
+
 }
 
 a{
 	text-decoration: none;
 	color: #3fafaf;
+	font-family: 'Prompt', sans-serif;
 }
 
 a:hover {
 	color: #E95853;
 }
 
+.title{
+	font-weight: bolder;
+	padding-left: 219px;
+    background-color: #0F7389;
+    padding-bottom: 18px;
+    
+
+}
 
 .palabra-uno{
-	color: white;
-	padding: 9px 137px;
-	margin-top: 23px;
+	color: whitesmoke;
+    padding: 0px 17px;
+    margin-top: 23px;
 
 }
 
 .palabra-dos{
 	color: #FE4556;
-	margin-left: 250px;
-	margin-top: -42px;
-
+	padding-top: 31px;
 }
 
+.fotoindex {
+    background-image: url(../img/img-1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-left: 67%;
+    margin-left: 234px;
+    margin-top: -61px;
+    position: absolute;
+    padding-top: 529px;
+    top: 151px;
+}
+
+.contenedor-lista{
+	padding-left: 502px;
+    padding-bottom: 25px;
+    padding-top: 36px;
+}
+
+#contiene {
+    width: 56%;
+    height: 46vh;
+    margin: 29px 0;
+    margin-left: 326px;
+    z-index: 1000;
+    position: absolute;
+    background-color: rgba(51, 135, 189, 0.67);
+}
+
+.soft{
+	font-size: 59px;
+    color: #fe4556;
+    text-align: center;
+    padding-top: 77px;
+}
+
+.pequeno-uno{
+   width: 12%;
+    position: absolute;
+    height: 20vh;
+    margin: 576px 5px;
+    margin-left: -189px;
+}
+
+.fotitos{
+	background-color: white;
+}
