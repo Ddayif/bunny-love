@@ -48,7 +48,7 @@ a:hover {
 
 
 .palabra-dos{
-	color: #FE4556;
+	color: #FF6163;
 	padding-top: 31px;
 }
 
@@ -93,11 +93,15 @@ a:hover {
 
 .soft{
 	font-size: 59px;
-    color: #fe4556;
+    color: #FF6163;
     text-align: center;
     padding-top: 77px;
 }
 
+
+
+
+/*********Comienza la seccion de fotografias *4 ***************/
 #conejitos{
     position: absolute;
     background-color: white;
@@ -127,3 +131,139 @@ a:hover {
     left: 8px;
 }
 
+.color {
+    background-color: #0F7389;
+    width: 100%;
+    left: 23px;
+    position: relative;
+}
+
+.title-tale{
+    color: #FF6163;
+    font-size: 17px;
+    padding-left: 17px;
+    text-align: center;
+}
+
+.text{
+    color: #e2f2ee;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+}
+
+
+
+
+
+/********Comienza la seccion con dos conejos***************/
+#dos-conejitos{
+    position: relative;
+    background-color: #0F7389;
+    width: 70%;
+    left: 217px;
+    height: 230vh;
+    bottom: -421px;
+    margin-bottom: 100px;
+    height: 181vh;
+}
+
+.contenedor-primer-conejo{
+    position: relative;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.primer-conejo{
+    height: 53vh;
+    margin-bottom: -10px;
+}
+
+
+.contenedor-segundo-conejo{
+    right: 127px;
+    position: relative;
+    padding-top: 127px;
+}
+
+.segundo-conejo{
+    height: 41vh;
+    width: 157%;
+}
+
+.texto-conejos {
+    background-color: #e2f2ee;
+    width: 78%;
+    padding: 22px 0;
+    padding-left: 27px;
+    font-size: 14px;
+    font-family: 'Prompt', sans-serif;
+    color: #594949;
+}
+
+.texto-conejo-dos{
+    width: 144%;
+    margin-top: -10px;
+    height: 27vh;
+}
+
+.iconitos{
+    text-align: center;
+    padding-top: 47px;
+}
+
+.fa{
+    color: #0F7389;
+    padding-right: 61px;
+}
+
+.fa-facebook{
+    padding-left: 18px;
+}
+
+.contenedor-imagen-3{
+    padding-top: 20px;
+}
+
+.imagen-3{
+    width: 156%;
+}
+
+.texto-conejo-tres{
+    width: 310px;
+    height: 22vh;
+    margin-top: -10px;
+}
+
+.video{
+    width: 540px;
+}
+
+.contenedor-dibujo{
+    width: 50%;
+}
+
+.dibujo{
+    width: 12%;
+    top: 341px;
+    position: relative;
+}
+
+#contenedor-footer{
+    background-color: #0F7389;
+        background-color: #0F7389;
+    top: 422px;
+    position: relative;
+    text-align: center;
+    height: 129px;
+    color: #e2f2ee;
+}
+
+.text-footer{
+    font-size: 16px;
+}
+
+.contenedor-texto-footer{
+    background-color: #FF6163;
+    height: 3px;
+}
